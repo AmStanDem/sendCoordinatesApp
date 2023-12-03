@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sendCoordinatesApp</string>
+    <string name="send_your_coordinates">Send your coordinates</string>
+    <string name="sms">SMS</string>
+    <string name="email">Email</string>
+    <string name="enter_an_email">Enter an email:</string>
+    <string name="send">Send</string>
+    <string name="back">Back</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="enter_a_phone_number">Enter a phone number</string>
+</resources>
